@@ -42,7 +42,7 @@ The project uses the **Mall Customers Dataset** which contains:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AtulPahal/K-mean.git
    cd k-mean
    ```
 
